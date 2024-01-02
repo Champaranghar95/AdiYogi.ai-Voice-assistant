@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Josefin+Sans:wght@300&family=Lato:wght@400;700&family=Montserrat:wght@300&display=swap');
+* { 
+  font-family: 'Exo 2', sans-serif;
+  }
+  
+  body {
+    margin: 14px;
+    
+  }
+
+  p{
+    font-size: 20px;
+  }
+  
+  #content {
+    background-color: rgba(235,244,251, 0.95); 
+    border: 1px solid #a6ceed; 
+    border-radius: 14px; 
+    opacity: 0.87; 
+    padding: 0px 8px 4px 8px; 
+    margin-bottom: 5px;
+  }
+  
+  #startBtn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+#startBtn:hover {
+    background-color: #fa0404; /* Darker shade when hovered */
+}
+
+#startBtn img {
+    height: 20px; /* Adjust as needed */
+    width: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; /* Full height of the viewport */
+}
+
+.white-bold-nav .nav-link {
+  color: white;
+  font-weight: bold;
+}
