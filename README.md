@@ -1,3 +1,4 @@
+![1695378530-top-ai-tools-for-businesses](https://github.com/Champaranghar95/AdiYogi.ai-Voice-assistant/assets/143308596/05eda114-66b1-4888-b326-cb781d996704)
 # AdiYogi.ai-Voice-assistant
 A voice assistant, also known as a virtual assistant or digital assistant, is a software agent that can perform tasks or services for an individual based on commands or questions. 
 Source and Technology Foundation:
