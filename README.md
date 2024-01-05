@@ -12,13 +12,17 @@ AI Integration: Leverage the power of AI to enhance the capabilities of your voi
 * Node.js and npm for managing dependencies.
 # Installation
 Clone the repository:
+
    git clone https://github.com/your-username/AdiYogi.ai-Voice-assistant.git
 Navigate to the project directory:
+
    cd AdiYogi.ai-Voice-assistant
 Install dependencies:
+
    npm install
 Usage
 Start the development server:
+
    npm start
 Open your browser and navigate to http://localhost:3000.
 
