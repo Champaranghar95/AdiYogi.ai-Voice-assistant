@@ -15,23 +15,23 @@ Clone the repository:
 
 bash
 Copy code
-* git clone https://github.com/your-username/AdiYogi.ai-Voice-assistant.git
+   git clone https://github.com/your-username/AdiYogi.ai-Voice-assistant.git
 Navigate to the project directory:
 
 bash
 Copy code
-* cd AdiYogi.ai-Voice-assistant
+   cd AdiYogi.ai-Voice-assistant
 Install dependencies:
 
 bash
 Copy code
-* npm install
+   npm install
 Usage
 Start the development server:
 
 bash
 Copy code
-* npm start
+   npm start
 Open your browser and navigate to http://localhost:3000.
 
 Interact with the AdiYogi.ai Voice Assistant using the provided interface.
